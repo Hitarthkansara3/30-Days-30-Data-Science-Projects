@@ -78,7 +78,7 @@ The trained model is saved using Pickle for future deployment in web application
 ## 🚀 How to Run This Project
 
 ### 1️⃣ Clone the Repository
-git clone https://github.com/your-username/student-placement-prediction.git
+https://github.com/Hitarthkansara3/30-Days-30-Data-Science-Projects/tree/main/Day-2_Student_Placement_Prediction
 
 ### 2️⃣ Install Dependencies
 pip install -r requirements.txt
