@@ -59,28 +59,6 @@ Dataset contains ball-by-ball IPL match data with columns such as:
 
 ---
 
-## 📊 Dashboard Features
-
-### 🔹 KPI Cards
-- Total Runs
-- Total Wickets
-- Total Matches
-
-### 🔹 Visualizations
-- Top 10 Run Scorers
-- Top Wicket Takers
-- Runs by Team
-- Runs by Over
-- Dismissal Types
-- Matches Played by Team
-
-### 🔹 Interactive Filters
-- Team Filter
-- Batsman Filter
-- Bowler Filter
-
----
-
 ## 📈 Key Insights
 
 - Top batsmen scored consistently across seasons  
