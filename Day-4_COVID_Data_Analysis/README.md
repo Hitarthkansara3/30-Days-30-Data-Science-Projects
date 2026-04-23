@@ -96,14 +96,4 @@ This project uses the following CSV files:
 
 ---
 
-## 📁 Project Structure
 
-```bash
-Day-4-COVID-Data-Analysis/
-│── covid_analysis.ipynb
-│── country_wise_latest.csv
-│── covid_19_clean_complete.csv
-│── day_wise.csv
-│── usa_county_wise.csv
-│── covid_final_output.csv
-│── README.md
