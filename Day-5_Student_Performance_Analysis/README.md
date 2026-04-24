@@ -136,6 +136,5 @@ Day-5-Student-Performance/
 
 ## 🙌 Author
 **Hitarth Kansara**  
-Aspiring Data Scientist | Python | ML | Analytics
 
 If you like this project, give it a ⭐ on GitHub!
