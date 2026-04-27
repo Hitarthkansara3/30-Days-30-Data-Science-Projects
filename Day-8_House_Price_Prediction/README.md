@@ -80,3 +80,33 @@ Day-8_House_Price_Prediction/
 │── house_price_prediction.py
 │── requirements.txt
 │── README.md
+
+## ⚠️ Model File Notice
+
+The `house_price_model.pkl` file is not included in this repository because the file size exceeds GitHub's upload limit.
+
+You can generate the model file locally by running the training script:
+
+```bash
+python house_price_prediction.py
+```
+
+After running the script, the file `house_price_model.pkl` will be created automatically.
+
+---
+
+## ▶️ Steps to Recreate the Model
+
+```bash
+git clone https://github.com/your-username/Day-8_House_Price_Prediction.git
+cd Day-8_House_Price_Prediction
+pip install -r requirements.txt
+python house_price_prediction.py
+streamlit run app.py
+```
+
+---
+
+## 📌 Why This Is Needed
+
+GitHub has file size limits for uploads, so large model files are often excluded from repositories. Recreating the model locally ensures the project still runs correctly.
